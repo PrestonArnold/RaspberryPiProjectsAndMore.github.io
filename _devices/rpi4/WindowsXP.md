@@ -11,4 +11,4 @@ comments: true
 
 Download Link : https://drive.google.com/file/d/1Lnf_y1EDaKRVOmwBIpdzx3oWAFdOMQ4P/view?usp=drivesdk
 
-**This os is work in progress**
+**This OS Is Work In Progress**
