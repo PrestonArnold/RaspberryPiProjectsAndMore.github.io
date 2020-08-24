@@ -8,7 +8,7 @@ tagstitle: ApplePiOS
 
 subtitle: for Raspberry Pi 4
 date: 2020-08-13
-tags: [rpi4, LineageOS, LOS17.1]
+tags: [rpi4, OS, AppleOS]
 social-share: true
 comments: true
 ---
