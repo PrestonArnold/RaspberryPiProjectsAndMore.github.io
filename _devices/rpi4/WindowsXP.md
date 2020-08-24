@@ -3,7 +3,7 @@ layout: rom
 title: Windows XP OS
 subtitle: for Raspberry Pi 4
 date: 2020-08-15
-tags: [rpi4, LineageOS, LOS17.1, AndroidTV]
+tags: [rpi4, OS, XP, Windows]
 social-share: true
 comments: true
 ---   
