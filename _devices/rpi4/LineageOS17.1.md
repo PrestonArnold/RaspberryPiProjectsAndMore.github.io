@@ -13,4 +13,10 @@ social-share: true
 comments: true
 ---
 **Here You Can Download ApplePiOS**
-[https://drive.google.com/file/d/1BASyeHl8RvNzt5tfe-QDxD-smE3q4BM1/view?usp=sharing]
+(https://drive.google.com/file/d/1BASyeHl8RvNzt5tfe-QDxD-smE3q4BM1/view?usp=sharing)
+
+**This is still work in project**
+
+This file is .img.xz so you need to flash it with balena etcher
+(https://www.balena.io/etcher/)
+
