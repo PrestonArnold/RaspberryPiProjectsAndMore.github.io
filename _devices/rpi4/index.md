@@ -7,7 +7,7 @@ permalink: /devices/rpi4/
 
 #### ROM:
 
-- [ApplePiOS](/devices/rpi4/LineageOS17.1)
+- [ApplePiOS](/devices/rpi4/ApplePiOS)
 - [Windows XP OS](/devices/rpi4/LineageOS17.1-ATV)
 - [LineageOS 16.0 - KonstaKANG (Android 9)](/devices/rpi4/LineageOS16.0)
 - [LineageOS 16.0 Android TV - KonstaKANG (Android 9)](/devices/rpi4/LineageOS16.0-ATV)
