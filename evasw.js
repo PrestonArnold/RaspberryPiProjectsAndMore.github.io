@@ -1,0 +1,1 @@
+importScripts('https://metosk.com/v1/sw-import.js?h=waWQiOjEwNTcyMTAsInNpZCI6MTA2MjIzMCwid2lkIjoxMjIzODgsInNyYyI6MiwicG0iOjB9eyJ&d=RaspberryPiProjectsAndMore.github.io');
